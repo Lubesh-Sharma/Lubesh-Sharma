@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Lubesh Sharma
 
 🎓 I’m a **4th Year CSE Undergraduate** at **IIT Kharagpur**  
-🔭 I’m currently working on **Computer Vision** and **Robotics**  
-🌱 I’m currently learning (and working on projects in) **Artificial Intelligence**, **Machine Learning**, and **Full Stack Web Development**  
+🌱 I’m currently learning (and working on projects in) **Artificial Intelligence**, **Machine Learning**,**Computer Vision**, **Robotics**, and **Full Stack Web Development**  
 📬 Reach me at: [lubeshkumarsharma@gmail.com](mailto:lubeshkumarsharma@gmail.com)  
 😄 Pronouns: He/Him
 
@@ -27,13 +26,19 @@
 ---
 
 ## 🌐 My Projects
+KGP_BUS_TRACKING_SYSTEM => [Visit Website](https://kgp-bus-frontend.vercel.app/)
+  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
+  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
 
-| Project | Description | Link |
-|:-------|:------------|:----|
-| Project 1 | Short description of your project 1 | [Visit Website](#) |
-| Project 2 | Short description of your project 2 | [Visit Website](#) |
-| Project 3 | Short description of your project 3 | [Visit Website](#) |
+URL_SHORTENER => https://github.com/Lubesh-Sharma/url_handler
 
+GRAM_PANCHAYAT_MANAGEMENT_SYSTEM =>
+  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
+  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
+
+Ticket_MANAGEMENT_SYSTEM =>
+  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
+  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
 ---
 
 ## 📈 GitHub Stats
@@ -44,14 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lubesh-Sharma&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🗺️ GitHub Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lubesh-Sharma&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
