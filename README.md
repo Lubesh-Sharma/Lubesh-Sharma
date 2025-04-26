@@ -8,6 +8,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Branch-CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT-Kharagpur-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-WebDev/AI/ML/CV-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-React/TensorFlow/Linux-green?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Lubesh-Sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, C++, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express, TensorFlow, PyTorch, OpenCV
@@ -39,13 +49,14 @@
 ---
 
 ## 🗺️ GitHub Heatmap
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lubesh-Sharma&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lubesh-Sharma&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-<!--
-**Lubesh-Sharma/Lubesh-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 💬 Motto
+
+> "Strive for progress, not perfection."
 
