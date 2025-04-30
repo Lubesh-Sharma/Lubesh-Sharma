@@ -35,25 +35,21 @@
 - [Frontend Repo](https://github.com/Lubesh-Sharma/url_frontend)
 - [Backend Repo](https://github.com/Lubesh-Sharma/url_backend)
 
-### 🔹 Gram Panchayat Management System
-- [Frontend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND)
-- [Backend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_Backend)
+### 🔹 [Gram Panchayat Management System](https://gram-panchayat-vfvm.onrender.com/landing)
+- [Frontend Repo](https://github.com/Lubesh-Sharma/Gram_Panchayat)
+- [Backend Repo](https://github.com/Lubesh-Sharma/Gram_Panchayat)
 
-### 🔹 Ticket Management System
-- [Frontend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND)
-- [Backend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_Backend)
+### 🔹 [Ticket Management System](https://auditorium-management.onrender.com)
+- [Frontend Repo](https://github.com/Lubesh-Sharma/Auditorium_Management)
+- [Backend Repo](https://github.com/Lubesh-Sharma/Auditorium_Management)
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏆 GitHub Trophies
 
-- 🦈 **Pull Shark ×2**
-- 🤖 **YOLO**
-- ❄️ **Arctic Code Vault Contributor**
-- 🔥 **GitHub Fire** *(if applicable)*
-- 🛠️ **Galaxy Brain** *(if you have it)*
-
-<!-- Optionally, you can add badge images if you want -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lubesh-Sharma&theme=radical&no-frame=true&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="GitHub Trophies" />
+</p>
 
 ---
 
