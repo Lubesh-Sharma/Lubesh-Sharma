@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lubesh Sharma
 
 🎓 I’m a **4th Year CSE Undergraduate** at **IIT Kharagpur**  
-🌱 I’m currently learning (and working on projects in) **Artificial Intelligence**, **Machine Learning**,**Computer Vision**, **Robotics**, and **Full Stack Web Development**  
+🌱 I’m currently learning and working on projects in **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **Robotics**, and **Full Stack Web Development**  
 📬 Reach me at: [lubeshkumarsharma@gmail.com](mailto:lubeshkumarsharma@gmail.com)  
 😄 Pronouns: He/Him
 
@@ -26,19 +26,35 @@
 ---
 
 ## 🌐 My Projects
-KGP_BUS_TRACKING_SYSTEM => [Visit Website](https://kgp-bus-frontend.vercel.app/)
-  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
-  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
 
-URL_SHORTENER => https://github.com/Lubesh-Sharma/url_handler
+### 🔹 [KGP Bus Tracking System](https://kgp-bus-frontend.vercel.app/)
+- [Frontend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND)
+- [Backend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_Backend)
 
-GRAM_PANCHAYAT_MANAGEMENT_SYSTEM =>
-  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
-  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
+### 🔹 [URL Shortener](https://url-frontend-six.vercel.app/)
+- [Frontend Repo](https://github.com/Lubesh-Sharma/url_frontend)
+- [Backend Repo](https://github.com/Lubesh-Sharma/url_backend)
 
-Ticket_MANAGEMENT_SYSTEM =>
-  Frontend => https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND
-  Backend => https://github.com/Lubesh-Sharma/KGP_BUS_Backend
+### 🔹 Gram Panchayat Management System
+- [Frontend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND)
+- [Backend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_Backend)
+
+### 🔹 Ticket Management System
+- [Frontend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_FRONTEND)
+- [Backend Repo](https://github.com/Lubesh-Sharma/KGP_BUS_Backend)
+
+---
+
+## 🏅 GitHub Achievements
+
+- 🦈 **Pull Shark ×2**
+- 🤖 **YOLO**
+- ❄️ **Arctic Code Vault Contributor**
+- 🔥 **GitHub Fire** *(if applicable)*
+- 🛠️ **Galaxy Brain** *(if you have it)*
+
+<!-- Optionally, you can add badge images if you want -->
+
 ---
 
 ## 📈 GitHub Stats
@@ -56,4 +72,3 @@ Ticket_MANAGEMENT_SYSTEM =>
 ## 💬 Motto
 
 > "Strive for progress, not perfection."
-
